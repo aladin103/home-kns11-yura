@@ -1,3 +1,3 @@
 <?php
-"S Rozhdestvom cherty, 11.10, I= U/R "
+"S Rozhdestvom cherty, 11.10, I= U/R kns forever"
 php?>
