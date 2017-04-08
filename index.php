@@ -1,4 +1,3 @@
 <?php
-"S Rozhdestvom cherty"
+"S Rozhdestvom cherty, 11.10 "
 php?>
-
